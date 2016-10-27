@@ -76,3 +76,9 @@ grails:
 endpoints:
     jmx:
         unique-names: true
+
+---
+carefinder:
+    api:
+        key: 95b4b4718580ed57b533d73754881470
+        endpoint: http://www.knautzfamilywi.com/CareFinder-1.0.0/api
